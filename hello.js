@@ -1,5 +1,5 @@
 // variable part Start//
-
+//from sadman
 // console.log("Hello World");
 var friendsName = "MD. Sabbirul Islam";
 console.log(typeof friendsName);
