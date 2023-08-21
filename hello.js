@@ -25,6 +25,8 @@ console.log(typeof numType);
 
 var BoolType = false;
 console.log(typeof BoolType);
+var BoolType = false;
+console.log(typeof BoolType);
 
 // Boolean Type Variable part End//
 
